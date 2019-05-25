@@ -1,0 +1,5 @@
+include dash_prime_components/dash_prime_components.min.js
+include dash_prime_components/dash_prime_components.dev.js
+include dash_prime_components/metadata.json
+include dash_prime_components/package.json
+include README.md
